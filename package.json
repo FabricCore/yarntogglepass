@@ -1,0 +1,17 @@
+{
+    "name": "yarntogglepass",
+    "version": "0.1.0",
+    "authors": [ "Sirius" ],
+    "description": "Yarnwrap event passes.",
+    "license": "AGPL-3.0-or-later",
+    "keywords": [ "core", "yarnwrap" ],
+
+    "entry": "entry.js",
+    "dependencies": {
+        "yarn": "0.1.0",
+        "toggle": "0.1.0"
+    },
+
+    "repository": null,
+    "homepage": null
+}
