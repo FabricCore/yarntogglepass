@@ -1,7 +1,7 @@
 {
     "name": "yarntogglepass",
     "version": "0.1.0",
-    "authors": [ "Sirius" ],
+    "authors": [ "Sirius<siriusmart>" ],
     "description": "Yarnwrap event passes.",
     "license": "AGPL-3.0-or-later",
     "keywords": [ "core", "yarnwrap" ],
